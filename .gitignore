@@ -1,0 +1,6 @@
+# Ignore private keys & certs
+*.key
+*.pem
+*.csr
+*.p12
+certs/
